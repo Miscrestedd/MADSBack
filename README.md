@@ -11,6 +11,10 @@ Este projeto consiste em um sistema de monitoramento ambiental que combina dados
 - **Integração com API de Tempo**: Obtém e utiliza dados de temperatura e umidade de uma API externa.
 - **Armazenamento em Banco de Dados**: Registra leituras do sensor e previsões em um banco de dados SQL.
 
+## Veja o vídeo
+
+[![Console Insert e returns](https://img.youtube.com/vi/SEU_VIDEO_ID/0.jpg)](https://youtu.be/6V0iJSV5Dw0?si=Peg7b-39di0442hD)
+
 ## Tecnologias Utilizadas
 
 - C#
